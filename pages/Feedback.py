@@ -14,7 +14,6 @@ if rating==5:
     st.subheader("Thank you fo your services")
 button=st.button("submit")
 
-st.ballons()
 
 
 
